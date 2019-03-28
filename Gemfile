@@ -24,14 +24,18 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 # Use slim for rails
 gem 'slim-rails'
-# convert erb to slim
+# Convert erb to slim
 gem 'html2slim'
 # Use bootstrap
 gem 'bootstrap'
 # Use link
 gem 'rails_autolink'
-# search data
+# Search data
 gem 'ransack'
+# Page nation
+gem 'kaminari'
+# Use Async, active job
+gem 'sidekiq'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
