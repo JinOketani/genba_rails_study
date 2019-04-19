@@ -36,6 +36,8 @@ gem 'ransack'
 gem 'kaminari'
 # Use Async, active job
 gem 'sidekiq'
+# Use webpacker
+gem 'webpacker'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
